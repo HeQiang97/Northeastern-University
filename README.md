@@ -4,4 +4,6 @@ Please upload the matlab_blg file before you run the basic source code.
 
 Please see the Main file
 
+Dynamic Opinion Maximization in Social Networks
+
 If you have any question, please send email to heqiangcai@gmail.com
